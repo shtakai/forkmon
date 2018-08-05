@@ -1,5 +1,7 @@
 # Bitcoin Fork Monitor Website
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/forkmon.svg)](https://www.guardrails.io)
+
 This repo contains the source code for the https://btcforkmonitor.info
 
 ## Building and testing locally
